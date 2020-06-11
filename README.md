@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="git" title="git" src="assets_readme/logo.png" width="500px" />
+    <img alt="BootCamp Carrefour" title="BootCamp Carrefour" src="assets_readme/logo.png" width="300px" />
 </h1>
 <h1 align="center">
 BootCamp Fullstack Developer Banco Carrefour
@@ -82,16 +82,16 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desafio prático: Testando aplicações .Net Core](/Certificados/272E9D58.pdf)
 - [Desenvolvimento de aplicações com .NET](/Certificados/867F0A30.pdf)
 - [Desafio prático: Injeção de Dependência em .NET Core: o que é isso?](/Certificados/CEAC8F02.pdf)
-- [Introdução à programação com Python](#)
-- [Desafio prático: Extraindo dados da web com Python](#)
-- [Projetos ágeis com SCRUM](#)
-- [Programação para internet com JavaScript](#)
-- [JavaScript ES6 essencial](#)
-- [Desafio prático: Performance Web Utilizando JavaScript](#)
-- [Desenvolvimento avançado com JavaScript ES6](#)
-- [Desafio prático: TDD com JavaScript](#)
-- [Introdução ao Angular 8](#)
-- [Técnicas avançadas em Angular 8](#)
+- Introdução à programação com Python(#)
+- Desafio prático: Extraindo dados da web com Python(#)
+- Projetos ágeis com SCRUM(#)
+- Programação para internet com JavaScript(#)
+- JavaScript ES6 essencial(#)
+- Desafio prático: Performance Web Utilizando JavaScript(#)
+- Desenvolvimento avançado com JavaScript ES6(#)
+- Desafio prático: TDD com JavaScript(#)
+- Introdução ao Angular 8(#)
+- Técnicas avançadas em Angular 8(#)
 
 <h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
