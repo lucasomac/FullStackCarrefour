@@ -43,11 +43,11 @@ BootCamp Fullstack Developer Banco Carrefour
 
 <hr/>
 
-## 💻 Projeto
+## 1. 💻 Projeto
 
 Esse projeto contém os arquivos do booCamp do banco Carrefour. Contém também os arquivos dos certificados obtidos durante o curso. alguns dos curso não geraram arquivos, sendo assim estará presente somente o certificado do curso.
 
-## ⚙️ Tecnologias
+## 2. ⚙️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Moq](https://github.com/moq/moq4)
 - [EntityFramework](https://docs.microsoft.com/pt-br/ef/)
 
-## ⛏ Ferramentas:
+## 3. ⛏ Ferramentas:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
@@ -65,7 +65,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [pgAdmin](https://www.pgadmin.org/)
 
-## 🏁 Cursos:
+## 4. 🏁 Cursos:
 
 - Bem-vindo à DIO
 - Conheça o Banco Carrefour
