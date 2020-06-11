@@ -5,10 +5,10 @@
 BootCamp Fullstack Developer Banco Carrefour
 </h1>
 <p align="center">
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#cursos">Cursos</a>
+  <a href="#-projeto">Projeto</a> | 
+  <a href="#-tecnologias">Tecnologias</a> | 
+  <a href="#-ferramentas">Ferramentas</a> | 
+  <a href="#-cursos">Cursos</a>
 </p>
 
 <div align="center">
@@ -67,31 +67,31 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
 # 🏁 Cursos:
 
-- Bem-vindo à DIO
-- Conheça o Banco Carrefour
-- Lógica de programação essencial
-- Introdução do Git e Controle de Versões
-- Introdução ao GitHub e comandos para trabalhar em equipe
-- Criando um repositório para seus projetos inovadores
-- Fundamentos de Arquitetura de Sistemas
-- Expert Lesson: DDD e arquitetura de software
-- Arquitetura de Sistemas Avançado
-- Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis
-- Conceitos e melhores práticas com bancos de dados PostgreSQL
-- Primeiros passos com .NET + C#
-- Desafio prático: Testando aplicações .Net Core
-- Desenvolvimento de aplicações com .NET
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [Bem-vindo à DIO](/Certificados/24CA67BD.pdf)
+- [Conheça o Banco Carrefour](/Certificados/A4EFDD1D.pdf)
+- [Lógica de programação essencial](/Certificados/F891B545.pdf)
+- [Introdução do Git e Controle de Versões](/Certificados/88031C73.pdf)
+- [Introdução ao GitHub e comandos para trabalhar em equipe](/Certificados/8A23B66A.pdf)
+- [Criando um repositório para seus projetos inovadores](/Certificados/7769FC21.pdf)
+- [Fundamentos de Arquitetura de Sistemas](/Certificados/5B342C88.pdf)
+- [Expert Lesson: DDD e arquitetura de software](/Certificados/D690494E.pdf)
+- [Arquitetura de Sistemas Avançado](/Certificados/E5CE7935.pdf)
+- [Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis](/Certificados/16844911.pdf)
+- [Conceitos e melhores práticas com bancos de dados PostgreSQL](/Certificados/F0824D30.pdf)
+- [Primeiros passos com .NET + C#](/Certificados/04D79972.pdf)
+- [Desafio prático: Testando aplicações .Net Core](/Certificados/272E9D58.pdf)
+- [Desenvolvimento de aplicações com .NET](/Certificados/867F0A30.pdf)
+- [Desafio prático: Injeção de Dependência em .NET Core: o que é isso?](/Certificados/CEAC8F02.pdf)
+- [Introdução à programação com Python](#)
+- [Desafio prático: Extraindo dados da web com Python](#)
+- [Projetos ágeis com SCRUM](#)
+- [Programação para internet com JavaScript](#)
+- [JavaScript ES6 essencial](#)
+- [Desafio prático: Performance Web Utilizando JavaScript](#)
+- [Desenvolvimento avançado com JavaScript ES6](#)
+- [Desafio prático: TDD com JavaScript](#)
+- [Introdução ao Angular 8](#)
+- [Técnicas avançadas em Angular 8](#)
 
 <h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
