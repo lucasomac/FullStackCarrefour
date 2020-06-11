@@ -6,8 +6,8 @@ BootCamp Fullstack Developer Banco Carrefour
 </h1>
 <p align="center">
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#cursos">Cursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -43,11 +43,11 @@ BootCamp Fullstack Developer Banco Carrefour
 
 <hr/>
 
-## 1. 💻 Projeto
+# 💻 Projeto
 
 Esse projeto contém os arquivos do booCamp do banco Carrefour. Contém também os arquivos dos certificados obtidos durante o curso. alguns dos curso não geraram arquivos, sendo assim estará presente somente o certificado do curso.
 
-## 2. ⚙️ Tecnologias
+# ⚙️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Moq](https://github.com/moq/moq4)
 - [EntityFramework](https://docs.microsoft.com/pt-br/ef/)
 
-## 3. ⛏ Ferramentas:
+# ⛏ Ferramentas:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
@@ -65,7 +65,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [pgAdmin](https://www.pgadmin.org/)
 
-## 4. 🏁 Cursos:
+# 🏁 Cursos:
 
 - Bem-vindo à DIO
 - Conheça o Banco Carrefour
