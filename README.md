@@ -82,7 +82,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desafio prático: Testando aplicações .Net Core](/Certificados/272E9D58.pdf)
 - [Desenvolvimento de aplicações com .NET](/Certificados/867F0A30.pdf)
 - [Desafio prático: Injeção de Dependência em .NET Core: o que é isso?](/Certificados/CEAC8F02.pdf)
-- [Introdução à programação com Python](Certificados/4A4B2F6D.pdf)
+- [Introdução à programação com Python](/Certificados/4A4B2F6D.pdf)
 - Desafio prático: Extraindo dados da web com Python(#)
 - Projetos ágeis com SCRUM(#)
 - Programação para internet com JavaScript(#)
