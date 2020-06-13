@@ -44,5 +44,5 @@ class InputError(Exception):
         self.message = message
 
 
-***REMOVED***
+if __name__ == '__main__':
     personalizacao()

@@ -21,7 +21,7 @@ def operacoes_date():
     diferenca = data + timedelta(days=365)
     print(diferenca)
 
-***REMOVED***
+if __name__ == '__main__':
     mostra_date()
     mostra_time()
     mostra_date_time()

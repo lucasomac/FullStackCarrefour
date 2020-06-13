@@ -1,28 +1,26 @@
-***REMOVED***
-
-TOKEN = '124348504:AAFqwQUXXGgaOmmX-Fsm0lpPy6_Y1mAglRk'
+import requests
 
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
-***REMOVED***
+def consulta_cep(cep):
+    url = 'https://viacep.com.br/ws/%s/json/' % cep
+    response = requests.get(url)
+    # print response.content
+    response_json = response.json()
+    logradouro = response_json['logradouro']
+    localidade = response_json['localidade']
+    return logradouro, localidade
 
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+def consulta_pokemon(pokemon):
+    response = requests.get('https://pokeapi.co/api/v2/pokemon/{}'.format(pokemon))
+    return response.json()
 
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+def return_response(url):
+    response = requests.get(url)
+    return response.text
 
 
-***REMOVED***
-***REMOVED***
-***REMOVED***
+if __name__ == '__main__':
+    # print(consulta_cep(input("Informe o cep\n")))
+    print(consulta_pokemon(input("Informe o nome do pokemon\n"))['sprites']['front_shiny'])
