@@ -60,10 +60,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
-- [Visual Studio](https://visualstudio.microsoft.com/vs/)
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [DataGrip](https://www.jetbrains.com/pt-br/datagrip/)
 - [pgAdmin](https://www.pgadmin.org/)
+- [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
+- [Visual Studio](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 # 🏁 Cursos:
 
