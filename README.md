@@ -85,7 +85,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desafio prático: Injeção de Dependência em .NET Core: o que é isso?](/Certificados/CEAC8F02.pdf)
 - [Introdução à programação com Python](/Certificados/4A4B2F6D.pdf)
 - [Desafio prático: Extraindo dados da web com Python](/Certificados/0232F8F0.pdf)
-- Projetos ágeis com SCRUM(#)
+- [Projetos ágeis com SCRUM[(/Certificados/BBCAA04A.pdf)
 - Programação para internet com JavaScript(#)
 - JavaScript ES6 essencial(#)
 - Desafio prático: Performance Web Utilizando JavaScript(#)
