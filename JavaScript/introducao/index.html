@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <script src="js/main.js"></script>
+    <title>JavaScript para Internet</title>
+</head>
+<body onload="load()">
+<button type="button" onclick="clicou()">Clique aqui</button>
+<p id="agradecimento" onclick="redirecionar()">Clique aqui</p>
+<p id="mousemove" onmouseover="trocar(this)" onmouseout="voltar(this)">Pase o Mouse aqui</p>
+
+<label>
+    <select onchange="funcaoChange(this)">
+        <option value="1">V1</option>
+        <option value="2">V2</option>
+        <option value="3">V3</option>
+    </select>
+</label>
+</body>
+</html>
