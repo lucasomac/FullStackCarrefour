@@ -87,7 +87,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desafio prático: Extraindo dados da web com Python](/Certificados/0232F8F0.pdf)
 - [Projetos ágeis com SCRUM](/Certificados/BBCAA04A.pdf)
 - [Programação para internet com JavaScript](/Certificados/170F6F18.pdf)
-- JavaScript ES6 essencial(#)
+- [JavaScript ES6 essencial](Certificados/1732C5C4.pdf)
 - Desafio prático: Performance Web Utilizando JavaScript(#)
 - Desenvolvimento avançado com JavaScript ES6(#)
 - Desafio prático: TDD com JavaScript(#)
