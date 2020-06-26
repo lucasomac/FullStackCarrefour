@@ -90,7 +90,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [JavaScript ES6 essencial](Certificados/1732C5C4.pdf)
 - [Desafio prático: Performance Web Utilizando JavaScript](Certificados/CEA1CD25.pdf)
 - [Desenvolvimento avançado com JavaScript ES]6(Certificados/2EE7DAA.pdf)
-- Desafio prático: TDD com JavaScript(#)
+- [Desafio prático: TDD com JavaScrip]t(Certificados/5EF4DE23.pdf)
 - Introdução ao Angular 8(#)
 - Técnicas avançadas em Angular 8(#)
 
