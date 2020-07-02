@@ -68,7 +68,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [WebStorm] (https://www.jetbrains.com/pt-br/webstorm/)
+- [WebStorm](https://www.jetbrains.com/pt-br/webstorm/)
 
 # 🏁 Cursos
 
