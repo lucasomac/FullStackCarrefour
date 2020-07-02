@@ -47,16 +47,19 @@ BootCamp Fullstack Developer Banco Carrefour
 
 Esse projeto contém os arquivos do booCamp do banco Carrefour. Contém também os arquivos dos certificados obtidos durante o curso. alguns dos curso não geraram arquivos, sendo assim estará presente somente o certificado do curso.
 
-# ⚙️ Tecnologias
+# ⚙️ Tecnologias e linguagens de programação
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [.NET Core](https://dotnet.microsoft.com/)
-- [PostgreSql](https://www.postgresql.org/)
-- [Moq](https://github.com/moq/moq4)
+- [Angular](https://angular.io/)
 - [EntityFramework](https://docs.microsoft.com/pt-br/ef/)
+- [Moq](https://github.com/moq/moq4)
+- [PostgreSql](https://www.postgresql.org/)
+- [Python](https://www.python.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-# ⛏ Ferramentas:
+# ⛏ Ferramentas
 
 Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 
@@ -65,8 +68,9 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [PyCharm](https://www.jetbrains.com/pt-br/pycharm/)
 - [Visual Studio](https://visualstudio.microsoft.com/vs/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [WebStorm] (https://www.jetbrains.com/pt-br/webstorm/)
 
-# 🏁 Cursos:
+# 🏁 Cursos
 
 - [Bem-vindo à DIO](/Certificados/24CA67BD.pdf)
 - [Conheça o Banco Carrefour](/Certificados/A4EFDD1D.pdf)
@@ -87,10 +91,10 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desafio prático: Extraindo dados da web com Python](/Certificados/0232F8F0.pdf)
 - [Projetos ágeis com SCRUM](/Certificados/BBCAA04A.pdf)
 - [Programação para internet com JavaScript](/Certificados/170F6F18.pdf)
-- [JavaScript ES6 essencial](Certificados/1732C5C4.pdf)
-- [Desafio prático: Performance Web Utilizando JavaScript](Certificados/CEA1CD25.pdf)
-- [Desenvolvimento avançado com JavaScript ES](Certificados/2EE27DAA.pdf)
-- [Desafio prático: TDD com JavaScrip](Certificados/5EF4DE23.pdf)
+- [JavaScript ES6 essencial](/Certificados/1732C5C4.pdf)
+- [Desafio prático: Performance Web Utilizando JavaScript](/Certificados/CEA1CD25.pdf)
+- [Desenvolvimento avançado com JavaScript ES](/Certificados/2EE27DAA.pdf)
+- [Desafio prático: TDD com JavaScrip](/Certificados/5EF4DE23.pdf)
 - Introdução ao Angular 8(#)
 - Técnicas avançadas em Angular 8(#)
 
