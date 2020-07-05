@@ -342,3 +342,5 @@ healthchecksdb
 JavaScript/tdd/node_modules
 *.package-lock.json*
 *.idea*
+
+/Angular/curso-angular/package-lock.json
