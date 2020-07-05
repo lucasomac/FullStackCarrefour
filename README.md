@@ -17,26 +17,26 @@ BootCamp Fullstack Developer Banco Carrefour
 </a>
 
 <a href="#">
-<img alt="Linguagens" src="https://img.shields.io/github/languages/count/lucasomac/BootCampCarrefour?color=920629&style=flat-square">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/lucasomac/BootCampCarrefourFullStack?color=920629&style=flat-square">
 </a>
 
-<a href="https://github.com/lucasomac/BootCampCarrefour/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/lucasomac/BootCampCarrefour?color=920629&style=flat-square">
+<a href="https://github.com/lucasomac/BootCampCarrefourFullStack/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/lucasomac/BootCampCarrefourFullStack?color=920629&style=flat-square">
 </a>
 
-<a href="https://github.com/lucasomac/BootCampCarrefour/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/lucasomac/BootCampCarrefour?color=920629&style=flat-square">
+<a href="https://github.com/lucasomac/BootCampCarrefourFullStack/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/lucasomac/BootCampCarrefourFullStack?color=920629&style=flat-square">
 </a>
 
 <a href="#">
-<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/repo-size/lucasomac/BootCampCarrefour?color=920629&style=flat-square">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/repo-size/lucasomac/BootCampCarrefourFullStack?color=920629&style=flat-square">
 </a>
 
-<a href="https://github.com/lucasomac/BootCampCarrefour/commits/master">
-<img alt="Commits" src="https://img.shields.io/github/last-commit/lucasomac/BootCampCarrefour?color=920629&style=flat-square">
+<a href="https://github.com/lucasomac/BootCampCarrefourFullStack/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/lucasomac/BootCampCarrefourFullStack?color=920629&style=flat-square">
 </a>
-<a href="https://github.com/lucasomac/BootCampCarrefour/releases">
-<img alt="Commits" src="https://img.shields.io/github/downloads/lucasomac/BootCampCarrefour/total?color=920629&style=flat-square">
+<a href="https://github.com/lucasomac/BootCampCarrefourFullStack/releases">
+<img alt="Commits" src="https://img.shields.io/github/downloads/lucasomac/BootCampCarrefourFullStack/total?color=920629&style=flat-square">
 </a>
 
 </div>
