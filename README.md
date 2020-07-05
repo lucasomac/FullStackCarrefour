@@ -96,7 +96,7 @@ Esse projeto foi desenvolvido com o uso das seguintes ferramentas/IDE:
 - [Desenvolvimento avançado com JavaScript ES](/Certificados/2EE27DAA.pdf)
 - [Desafio prático: TDD com JavaScrip](/Certificados/5EF4DE23.pdf)
 - [Introdução ao Angular 8](/Certificados/74ED7F06.pdf)
-- Técnicas avançadas em Angular 8(#)
+- [Técnicas avançadas em Angular 8](/Certificados/8B175BEC.pdf)
 
 <h4 align="center" >
   Compartilhar conhecimento é sempre bom!!!
